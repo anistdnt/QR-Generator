@@ -81,4 +81,7 @@ input:focus{
     .container{
         width: 200px;
     }
+    .img-box{
+        width: 70%;
+    }
 }
